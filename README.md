@@ -9,10 +9,10 @@
 
 - 群的定义，子群和陪集分解，循环群，正规子群、商群和同态定理，置换群，群作用，Sylow 定理，自由群和群的表现，有限生成交换群的结构，小阶群的结构；
 - 环和理想的基本概念（PID），环的同构定理，同态的应用，交换幺环中的因子分解（UFD），多项式环、Gauss 定理；
-- 域，域扩张，有限域，~~分裂域，可分扩张与正规扩张，Galois 扩张，Galois 基本定理，方程的 Galois 群~~
+- 域，域扩张，有限域~~，分裂域，可分扩张与正规扩张，Galois 扩张，Galois 基本定理，方程的 Galois 群~~
 
 ## LaTeX 编译
-环境：Windows 10 22H2，TeX Live 2022
+本地环境：Windows 10 22H2，TeX Live 2022
 ```
 xelatex -> biblatex -> xelatex -> xelatex
 ```
